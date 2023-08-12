@@ -5,58 +5,50 @@
       "timezone": "Etc/GMT+7",
       "dayReset": "04:00"
     },
-    "BA": {
-      "name": "Blue Archive",
+    "BD2": {
+      "name": "Brown Dust 2",
       "timezone": "Etc/UTC",
-      "dayReset": "19:00"
-    },
-    "EPIC7": {
-      "name": "Epic Seven",
-      "timezone": "Etc/GMT",
-      "dayReset": "10:00"
-    },
-    "FGO": {
-      "name": "Fate/Grand Order",
-      "timezone": "US/Pacific",
-      "dayReset": "21:00"
+      "dayReset": "20:00"
     },
     "HSR": {
       "name": "Honkai: Star Rail",
       "timezone": "Etc/GMT-8",
       "dayReset": "04:00"
     },
-    "MAGIRECO": {
-      "name": "Magia Record",
+    "GI": {
+      "name": "Genshin Impact",
+      "timezone": "Etc/GMT-8",
+      "dayReset": "04:00"
+    },
+    "AE": {
+      "name": "Another Eden idk the time but it resets at 22",
+      "timezone": "US/Pacific",
+      "dayReset": "21:00"
+    },
+    "REV1999": {
+      "name": "Reverse:1999 idk time but it resets at 17",
       "timezone": "Asia/Tokyo",
       "dayReset": "00:00"
     },
-    "NC": {
-      "name": "Neural Cloud",
+    "PGR": {
+      "name": "PGR idk the time but it resets at 14",
       "timezone": "Etc/GMT+8",
       "dayReset": "05:00"
     },
-    "NIKKE": {
-      "name": "GODDESS OF VICTORY: NIKKE",
+    "AS": {
+      "name": "Alchemy Stars dk the time",
       "timezone": "Etc/GMT-9",
       "dayReset": "05:00"
-    },
-    "PRICONNE": {
-      "name": "Princess Connect! Re:Dive",
-      "timezone": "Asia/Tokyo",
-      "dayReset": "05:00"
-    },
-    "SIF2": {
-      "name": "Love Live! School idol festival 2 MIRACLE LIVE!",
-      "timezone": "Asia/Tokyo",
-      "dayReset": "00:00"
-    },
-    "SNOWBREAK": {
-      "name": "Snowbreak: Containment Zone",
-      "timezone": "Etc/GMT-8",
-      "dayReset": "04:00"
     }
   },
   "events": {
+      "AE": [
+      {
+        "event": "just existing",
+        "start": "2023-08-03 04:59",
+        "end": "2023-08-04 04:59"
+      }
+    ],
     "ARKNIGHTS": [
       {
         "event": "ItW rerun",
@@ -64,16 +56,23 @@
         "end": "2023-08-21 03:59"
       }
     ],
-    "EPIC7": [
+    "BD2": [
       {
-        "event": "Guilty Gear Collab",
+        "event": "no idea",
         "start": "2023-08-10 03:00",
         "end": "2023-08-24 02:59"
       },
       {
-        "event": "ReZero Collab",
+        "event": "no idea2",
         "start": "2023-08-17 03:00",
         "end": "2023-08-31 02:59"
+      }
+    ],
+    "GI": [
+      {
+        "event": "waiting for fontaine",
+        "start": "2023-08-08 18:30",
+        "end": "2023-08-17 18:29"
       }
     ],
     "HSR": [
@@ -83,30 +82,18 @@
         "end": "2023-08-29 14:59"
       }
     ],
-    "NC": [
+    "PGR": [
       {
-        "event": "Turing",
-        "start": "2023-08-08 18:30",
-        "end": "2023-08-29 18:29"
-      }
-    ],
-    "NIKKE": [
-      {
-        "event": "Summer Anis",
+        "event": "new divide idk times",
         "start": "2023-08-03 04:59",
-        "end": "2023-08-24 04:59"
-      },
-      {
-        "event": "Helm",
-        "start": "2023-08-10 05:00",
-        "end": "2023-08-31 23:59"
+        "end": "2026-08-24 04:59"
       }
     ],
-    "PRICONNE": [
+    "REV1999": [
       {
-        "event": "Summer Ranpha",
+        "event": "waiting for full rls",
         "start": "2023-07-31 12:00",
-        "end": "2023-08-09 11:59"
+        "end": "2023-10-09 11:59"
       }
     ]
   }
